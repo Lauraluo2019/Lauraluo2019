@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lauraluo2019
-- 👀 I’m interested in and currently learning R programing, Data Science
+- 👀 I’m interested in and currently learning R programing
 - 📫 You can reach me at luoyuan07@gmail.com
 
 <!---
